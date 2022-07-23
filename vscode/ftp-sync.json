@@ -1,0 +1,30 @@
+{
+    "remotePath": "/",
+    "host": "ftp.web70113.uni5.net",
+    "username": "aulaphp",
+    "password": "senac10058",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\.vendor",
+        "\\.tests",
+        "\\Config.php"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
